@@ -1,4 +1,4 @@
-# Minimalist Dark Theme for Zen Browser
+# Zenochrome: Minimalist Dark Theme for Zen Browser
 
 
 ## Table of Contents
