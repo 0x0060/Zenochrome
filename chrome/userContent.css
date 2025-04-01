@@ -300,3 +300,8 @@
   background-color: #222222 !important;
 
 }
+
+
+#tabbrowser-tabpanels[zen-split-view="true"] .browserSidebarContainer.deck-selected {
+  outline: 1px solid #222222 !important;
+}
